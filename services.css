@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    overflow: hidden;
+    
+
+}
+
+.nav-bar  a{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-radius: 20px;
+}
+
+.nav-bar a:hover{
+    background-color: thistle;
+    color: black;
+}
+
+.services{
+    background-color: whitesmoke;
+}
+
+.contact-form{
+    background-color: whitesmoke;
+}
+h4{
+    text-align: center;
+}
+
+#p{
+    font-size: x-large;
+}
+form{
+    padding-left: 15px;
+    padding-bottom: 25px;
+}
+
+hr{
+    width: 300px;
+   margin-left: 39%;
+   color: black;
+   
+   border: solid black;
+}
+#input{
+    width: 350px;
+    height: 6vh;
+}
+
+#button{
+    background-color: rgb(82, 73, 85);
+    width: 350px;
+    font-size: x-large;
+    border-radius: 15px;
+    color: white; 
+}
+#button:hover{
+    background-color: rgb(19, 15, 16);
+    color: wheat;
+}
+
+
+#facebook{
+    color: blue;
+    padding: 15px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 25px;
+}
+ #insta{
+    color: #8a3ab9;
+    padding: 15px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 25px;
+}
+#youtube{
+    color: #FF0000;
+    padding: 15px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 25px;
+}
+#twitter{
+    color: #1DA1F2;
+    padding: 15px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+
+/* Footer Styling */
+footer{
+    background-color: black;
+    color: blanchedalmond;
+    height: 5vh;
+}
+
+#f{
+    
+    padding-top: 4px;
+    align-content: center;
+    font-size: 1.2rem;
+} 
+/* end footer Styling */
